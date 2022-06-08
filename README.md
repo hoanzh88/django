@@ -1,5 +1,5 @@
 # django
-Single Create, Read, Update, Delete.
+Single Create, Read, Update, Delete with Mysql
 
 ### Start project
 	python -m django startproject web_application
